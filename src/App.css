@@ -1,0 +1,51 @@
+/* Navbar css */
+.nav-css{
+  background-color: #2C3E50;
+  color: white !important;  
+}
+.nav-link.active {
+  background-color: #1ABC9C;
+  border-radius: 25%;
+  color: white !important;
+  
+}
+
+/* card body footer */
+.CB-footer{
+  background-color: #2C3E50;
+  color: white !important;
+}
+/* card footer */
+.CF{
+  background-color: #1A252F;
+  color: white !important;
+}
+
+/* home */
+.all-background{
+  background-color: #1ABC9C;
+  height: 580px;
+}
+
+.line{
+  background-color: white;
+  height: 5px;
+  width: 80px;
+  
+}
+.fa-star{
+  color: white !important;
+  font-size: 20px;
+}
+.HRline{
+  margin: 20px auto;
+}
+
+
+/* about  */
+.body-about{
+  max-width: 1000px;
+}
+
+
+/* contact */
