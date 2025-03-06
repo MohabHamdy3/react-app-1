@@ -2,7 +2,7 @@
   "name": "app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://MohabHamdy3.github.io/app1_react",
+  "homepage": "https://MohabHamdy3.github.io/react-app-1",
   "type": "module",
   "scripts": {
     "dev": "vite",
